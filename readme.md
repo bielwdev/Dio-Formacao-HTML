@@ -1,5 +1,5 @@
 <h1 align="center">
-  Formação JavaScript Developer
+  Formação HTML Web Developer
 </h1>
 
 <h2 align="center">
