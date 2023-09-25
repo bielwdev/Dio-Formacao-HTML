@@ -32,6 +32,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Desafios de Códigos - Formação HTML Web Developer
 
-- [EM BREVE]()
+- [Website básico](https://github.com/bielwdev/Dio-Formacao-HTML/blob/main/M%C3%B3dulo1-Desafio1/index.html)
 - [EM BREVE]()
 - [EM BREVE]()
