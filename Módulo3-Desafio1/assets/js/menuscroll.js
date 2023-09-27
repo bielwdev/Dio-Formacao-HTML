@@ -63,3 +63,15 @@ function handleMouseScroll(event) {
 
 // Adiciona um ouvinte de evento para o evento de rolagem do mouse
 window.addEventListener("wheel", handleMouseScroll);
+
+
+// Adiciona uma função de timer
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+//Faz com que o menu volte ao topo ao clicar no botão de Voltar ao Topo
+function voltaraotopo(){
+    sleep(200).then(() => {document.getElementById("menudireito").style.paddingTop = "0px"});
+  
+}
