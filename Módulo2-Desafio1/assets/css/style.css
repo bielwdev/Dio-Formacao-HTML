@@ -47,20 +47,20 @@ body {
 
 .headersobre {
     min-height: 220px;
-    background: url(../assets/img/clinica.jpg);
+    background: url(/../assets/img/clinica.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .headeratendimento {
     min-height: 220px;
-    background: url(../assets/img/atendimento.jpg);
+    background: url(/../assets/img/atendimento.jpg);
     background-size: cover;
     background-position: center;
 }
 .headercontato {
     min-height: 220px;
-    background: url(../assets/img/contato.jpg);
+    background: url(/../assets/img/contato.jpg);
     background-size: cover;
     background-position: center;
 }
