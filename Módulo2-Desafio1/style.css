@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+
+.menu {
+    width: 19%;
+    background-color: #089281;
+    padding: 20px 25px 0px;
+    color: #ffffff;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    text-decoration: underline;
+    color: #ffffff;
+    white-space: nowrap;
+    padding-left: -500px;
+}
+
+.header {
+    min-height: 220px;
+    background: url(../assets/img/header.jpg);
+    background-size: cover;
+}
+
+.headersobre {
+    min-height: 220px;
+    background: url(../assets/img/clinica.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.headeratendimento {
+    min-height: 220px;
+    background: url(../assets/img/atendimento.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    background-color: white;
+    min-height: 370px;
+    padding: 20px;
+    padding-left: 50px;
+}
+.contentform {
+    background-color: white;
+    min-height: 370px;
+    padding: 20px;
+}
+
+.formulariocacete {
+    justify-content: center;
+    display: flex;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.content table, th, td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: #c4e7d3;
+}
+
+th {
+    background-color: #ffca46;
+}
+
+.footer {
+    background-color: #c4e7d3;
+    min-height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contentform h1{
+    text-align: center;
+}
+
+.contentform form {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contentform input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contentform input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contentform textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: none;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.contentform input[type=submit] {
+    text-align: center;
+    width: 50%;
+    background-color: #ffca46;
+    color: white;
+    padding: 14px 20px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+    transition: 0.5s;
+
+}
+
+.contentform input[type=reset] {
+    width: 50%;
+    background-color: #ff4646;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.contentform input[type=submit]:hover {
+    scale: 105%;
+    font-weight: 500;
+}
+
+.contentform input[type=reset]:hover {
+    scale: 105%;
+    font-weight: 500;
+}
