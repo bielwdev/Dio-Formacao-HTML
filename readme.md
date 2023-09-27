@@ -32,6 +32,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Desafios de Códigos - Formação HTML Web Developer
 
-- [Website básico](https://github.com/bielwdev/Dio-Formacao-HTML/blob/main/M%C3%B3dulo1-Desafio1/index.html)
-- [EM BREVE]()
+- [Website básico](https://bielwdev.github.io/Dio-Formacao-HTML/M%C3%B3dulo1-Desafio1/index.htmll)
+- [Website Clínica Veterinária](https://bielwdev.github.io/Dio-Formacao-HTML/M%C3%B3dulo2-Desafio1/index.html)
 - [EM BREVE]()
