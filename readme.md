@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - [Website básico](https://bielwdev.github.io/Dio-Formacao-HTML/M%C3%B3dulo1-Desafio1/index.html)
 - [Website Clínica Veterinária](https://bielwdev.github.io/Dio-Formacao-HTML/M%C3%B3dulo2-Desafio1/index.html)
-- [EM BREVE]()
+- [Website Wikipedia com Layout Moderno](https://bielwdev.github.io/Dio-Formacao-HTML/M%C3%B3dulo3-Desafio1/index.html)
